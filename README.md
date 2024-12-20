@@ -122,6 +122,7 @@ Proje ile ilgili katkıda bulunmak isterseniz, lütfen bir **pull request** gön
 ---
 
 **Geliştiriciler:**  
-- **Arif Özcan** - 200541024  
-- **Furkan Taşan** - 210541010
+
+- **[Arif Özcan](https://github.com/arifozcan35)**
+- **[Furkan Taşan](https://github.com/Furkantsnb)** 
 
